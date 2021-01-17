@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Pre-work for CodePath
 
 ### App Description
 `TODO://` This a "Hello World" preworked app that, basically, consits of textfield, label and three buttons. It also can change text color, background color and some more stuff
